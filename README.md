@@ -91,3 +91,9 @@ Use this package if you share widgets or entire features between projects. For e
 ## Create a widget like TextButton that should look different in different projects.
 Instead of creating different widgets with custom appearances in each project, define a custom theme and apply it.
 By using custom_theme, you can define your own theme and easily share widgets or features between projects, ensuring consistent styling and reducing redundant code.
+
+## Author
+
+- [Pranjali Maske]
+
+If you have any questions or need assistance, please feel free to contact the author.
