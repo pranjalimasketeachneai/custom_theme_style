@@ -21,7 +21,7 @@ Add `custom_theme_style` as a dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  custom_theme_style: ^0.0.1
+  custom_theme_style: ^0.0.2
 ```
 
 # 2.Define Custom Themes
