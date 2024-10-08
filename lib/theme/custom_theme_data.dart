@@ -29,6 +29,7 @@ class CustomThemeData {
     double radioSize = selectSize(isTablet, radioLargeSize, radioMediumSize);
 
     return ThemeData(
+      scaffoldBackgroundColor: AppColors.white,
       appBarTheme: AppBarTheme(
         elevation: 0,
         backgroundColor: Colors.white,
@@ -89,6 +90,7 @@ class CustomThemeData {
     double radioSize = selectSize(isTablet, radioLargeSize, radioMediumSize);
 
     return ThemeData(
+      scaffoldBackgroundColor: AppColors.black,
       appBarTheme: AppBarTheme(
         elevation: 0,
         backgroundColor: Colors.black,

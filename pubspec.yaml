@@ -1,7 +1,9 @@
 name: custom_theme_style
 description: "A new Flutter package which helps developer to create custom theme and it's override methods.Make your own custom theme for custom components"
 version: 0.0.1
-homepage: 'https://github.com/pranjalimasketeachneai/custom_theme_style.git'
+homepage: https://github.com/pranjalimasketeachneai/custom_theme_style.git
+repository: https://github.com/pranjalimasketeachneai/custom_theme_style.git
+issue_tracker: https://github.com/pranjalimasketeachneai/custom_theme_style.git
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
